@@ -1,8 +1,7 @@
 # toddqualiano.com
 
 Personal site and living resume for Todd Qualiano. Built to demonstrate 
-production-grade engineering to technical recruiters at mission-driven 
-(clean energy / non-profit) companies.
+production-grade engineering.
 
 ## Stack
 - **Framework**: Next.js (App Router) + TypeScript
